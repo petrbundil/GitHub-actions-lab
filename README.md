@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals - test pull request
 
 Repo for the `GitHub Actions Fundamentals` training.
 
